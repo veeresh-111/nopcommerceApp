@@ -43,7 +43,7 @@ class Test_SearchCustByemail_004:
             assert True
             self.logger.info("*************** Test_SearchCustByemail_004 Passed *************** ")
         else:
-            self.logger.info("*************** Test_SearchCustByemail_004 Finished *************** ")
+            self.logger.info("*************** Test_SearchCustByemail_004 Failed *************** ")
             assert False
 
         self.logger.info("*************** Test_SearchCustByemail_004 Finished *************** ")

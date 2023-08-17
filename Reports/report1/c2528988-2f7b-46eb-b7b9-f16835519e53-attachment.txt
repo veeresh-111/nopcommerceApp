@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_login.py:20 ************Test001login************* 
+[32mINFO    [0m root:test_login.py:21 *************verifying Home page title*********** 
+[32mINFO    [0m root:test_login.py:29 **************Home page title test passed****************

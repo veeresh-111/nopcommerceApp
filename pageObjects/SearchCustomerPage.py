@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 
 
 class Search_Customer:
+
     txtEmail_xpath = "//input[@id='SearchEmail']"
     txtfstname_xpath = "//input[@id='SearchFirstName']"
     txtlstname_xpath = "//input[@id='SearchLastName']"
